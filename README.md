@@ -8,9 +8,10 @@ http://urc.marssociety.org/
 * Equipment Servicing Task
 * Autonomous Traversal Task 
 
-# Microcontroller
+# Microcontrollers
 * STM32F103 - ARM Cortex M3 
-* Arduino Nano 
+* Arduino Nano
+* Raspberry Pi 3.0
 
 # Languages
 * Embedded C
