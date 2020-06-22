@@ -12,13 +12,19 @@ http://urc.marssociety.org/
 * STM32F103 - ARM Cortex M3 
 * Arduino Nano 
 
+# Languages
+* Embedded C
+
+# Softwares
+* CooCox CoIDE
+
 # Sensors
 * GPS - Self Positioning and Map Plotting 
 * Magnetometer - Destination triangulation and Rover inclination assist in Autonomous Traversal 
 * Ultrasonic Sensors - Obstacle Avoidance 
 
 # Working Project demo
-https://www.youtube.com/watch?v=6Mr8owXfWoc
+* https://www.youtube.com/watch?v=6Mr8owXfWoc
 
 # Competition Results
 1st across Asia, 8th Globaly
